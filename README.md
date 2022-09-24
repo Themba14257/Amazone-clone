@@ -1,3 +1,7 @@
+![amazon-labding page](https://user-images.githubusercontent.com/54105414/192097468-731f1f71-9e99-4fc3-be15-ab3a7d00572f.png)
+![amazon-scrolling](https://user-images.githubusercontent.com/54105414/192097483-7acafc13-532c-466e-b313-9c51b99d3ff0.png)
+![amazon-checkout](https://user-images.githubusercontent.com/54105414/192097489-fd792e61-0b18-43aa-af12-4c07821a7fa5.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
